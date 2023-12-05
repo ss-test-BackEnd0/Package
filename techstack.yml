@@ -1,11 +1,11 @@
 repo_name: ss-test-BackEnd0/Package
-report_id: 33d98ae09582e23a7e78f13b155915e6
+report_id: ca7ebc08a9841c261bdb60e30cdddef8
 repo_type: Public
-timestamp: '2023-11-09T12:58:09+00:00'
+timestamp: '2023-12-05T08:58:15+00:00'
 requested_by: web-flow
 provider: github
 branch: main
-detected_tools_count: 104
+detected_tools_count: 102
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -42,7 +42,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/9149/full.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -56,7 +56,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/5302/17475736.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-11-16 10:27:30.000000000 Z
@@ -94,7 +94,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -108,7 +108,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -145,7 +145,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -159,7 +159,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -172,7 +172,7 @@ tools:
   category: Monitoring
   sub_category: Logging Tools
   image_url: https://img.stackshare.io/service/10249/no-img-open-source.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -210,7 +210,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/4488/default_87e6ca3fa146a959af95ccf3df1ec550eb434129.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -233,7 +233,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-11-16 10:27:30.000000000 Z
@@ -247,7 +247,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -272,7 +272,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -286,7 +286,7 @@ tools:
   category: Monitoring
   sub_category: node.js Application Monitoring
   image_url: https://img.stackshare.io/service/5577/preview.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -347,26 +347,6 @@ tools:
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
-- name: NPM Trends
-  website_url: https://www.npmtrends.com/
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
-  detection_source: package.json
-  last_updated_by: DotEsparto
-  last_updated_on: 2022-12-14 11:46:48.000000000 Z
-- name: PonyDebugger
-  description: Remote network and data debugging for your native iOS app using Chrome
-    Developer Tools
-  website_url: https://github.com/square/PonyDebugger
-  open_source: true
-  hosted_saas: false
-  category: Mobile
-  sub_category: Mobile Runtime Inspector
-  image_url: https://img.stackshare.io/service/729/Logo.png
-  detection_source: package.json
-  last_updated_by: DotEsparto
-  last_updated_on: 2022-12-14 11:46:48.000000000 Z
 - name: Showdown
   description: JavaScript port of Markdown
   website_url: https://github.com/coreyti/showdown
@@ -377,7 +357,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -390,6 +370,26 @@ tools:
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-11-16 10:27:30.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source: package.json
+  last_updated_by: DotEsparto
+  last_updated_on: 2022-12-13 15:07:04.000000000 Z
+- name: svgo
+  website_url: https://github.com/svg/svgo
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8443/2473585.png
+  detection_source: package.json
+  last_updated_by: DotEsparto
+  last_updated_on: 2022-12-14 11:46:48.000000000 Z
 - name: "@babel/cli"
   description: Babel command line
   package_url: https://www.npmjs.com/@babel/cli
@@ -400,7 +400,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -414,7 +414,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -429,7 +429,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -443,7 +443,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16147/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -457,7 +457,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16312/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -471,7 +471,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16570/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -485,7 +485,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16503/default_55f3303d620c93eecbee69c43373d484f2be492f.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -499,7 +499,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16469/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -513,7 +513,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16306/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -527,7 +527,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16489/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -541,7 +541,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16080/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -555,7 +555,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18602/default_e4d4cb7c5bd0c6ee70b44d35688990b2f8d55394.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -569,7 +569,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16039/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -583,7 +583,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -597,7 +597,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -611,7 +611,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -625,7 +625,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17753/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -639,7 +639,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18594/default_ff37252c783e39778181a2b561afd470c5bdef8b.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -653,7 +653,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18385/default_3918a37cf2f76449e061a2c79fb02113faa1391a.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-11-16 10:27:30.000000000 Z
@@ -667,7 +667,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18428/default_9499465ee49aaffadf126149b962e9838bc4a993.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -681,7 +681,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16956/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -695,7 +695,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16731/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -709,7 +709,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17085/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -723,7 +723,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17167/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -737,7 +737,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -751,7 +751,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -765,7 +765,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -779,7 +779,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16308/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -793,7 +793,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18443/default_31e3dc8ee5066945286d4e7345d470ac3863ee5a.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -807,7 +807,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16347/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -821,7 +821,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16978/default_7a9e63a9526bf5da91e7a6f9f792b13e3543a875.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -835,21 +835,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17385/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
-  detection_source_url: package.json
-  detection_source: package.json
-  last_updated_by: DotEsparto
-  last_updated_on: 2022-12-13 15:07:04.000000000 Z
-- name: date-fns
-  description: Modern JavaScript date utility library
-  package_url: https://www.npmjs.com/date-fns
-  version: 2.16.1
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16297/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -863,7 +849,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -884,7 +870,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15959/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -898,7 +884,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16252/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -912,7 +898,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -926,7 +912,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15988/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -940,7 +926,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -954,7 +940,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -968,7 +954,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -982,7 +968,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -996,7 +982,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18009/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1010,7 +996,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16631/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -1024,7 +1010,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16206/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1038,7 +1024,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16422/default_cdeaf2fdc112ae29eada7343314e0eee59c7eb0d.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1052,7 +1038,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1066,7 +1052,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1080,7 +1066,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16661/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1094,7 +1080,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -1115,7 +1101,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1129,7 +1115,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -1143,7 +1129,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16030/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1157,7 +1143,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17111/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1171,7 +1157,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18089/image.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1185,7 +1171,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16383/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1199,7 +1185,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1213,7 +1199,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16971/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1227,7 +1213,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17809/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1241,7 +1227,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16058/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1255,7 +1241,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16452/default_d634bba6819a28b85a138b7ded782cadbfa6a482.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1269,7 +1255,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18551/default_9ee31ff0b8de914bd17073075dcd2fcbf11980a7.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1283,7 +1269,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1297,7 +1283,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1311,21 +1297,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: package.json
-  detection_source: package.json
-  last_updated_by: DotEsparto
-  last_updated_on: 2022-12-14 11:46:48.000000000 Z
-- name: svgo
-  description: Nodejs-based tool for optimizing SVG vector graphics files
-  package_url: https://www.npmjs.com/svgo
-  version: 1.3.2
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16716/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1339,7 +1311,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1353,7 +1325,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1367,7 +1339,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
@@ -1381,7 +1353,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1395,7 +1367,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1409,7 +1381,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16158/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-14 11:46:48.000000000 Z
@@ -1423,7 +1395,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16094/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
-  detection_source_url: package.json
+  detection_source_url: github.com/ss-test-BackEnd0/Package/blob/main/package.json
   detection_source: package.json
   last_updated_by: DotEsparto
   last_updated_on: 2022-12-13 15:07:04.000000000 Z
