@@ -1,10 +1,10 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ss-test-BackEnd0/Package is built on the following main stack:
+
 - [Stripe](https://stripe.com) – Payment Services
 - [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
-- [PonyDebugger](https://github.com/square/PonyDebugger) – Mobile Runtime Inspector
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -28,16 +28,18 @@ ss-test-BackEnd0/Package is built on the following main stack:
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 - [Glamorous](https://glamorous.rocks) – JavaScript Framework Components
 - [Bunyan](https://github.com/trentm/node-bunyan) – Logging Tools
+- [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ss-test-BackEnd0/Package is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/729/Logo.png' alt='PonyDebugger'/> [PonyDebugger](https://github.com/square/PonyDebugger) – Mobile Runtime Inspector
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -61,16 +63,18 @@ ss-test-BackEnd0/Package is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/9149/full.png' alt='Glamorous'/> [Glamorous](https://glamorous.rocks) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/10249/no-img-open-source.png' alt='Bunyan'/> [Bunyan](https://github.com/trentm/node-bunyan) – Logging Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ss-test-BackEnd0/Package](https://github.com/ss-test-BackEnd0/Package)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|104<br/>Tools used|11/09/23 <br/>Report generated|
+|102<br/>Tools used|12/05/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -325,22 +329,6 @@ Full tech stack [here](/techstack.md)
 ## Other (4)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
-  <br>
-  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/729/Logo.png' alt='PonyDebugger'>
-  <br>
-  <sub><a href="https://github.com/square/PonyDebugger">PonyDebugger</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='Showdown'>
   <br>
   <sub><a href="https://github.com/coreyti/showdown">Showdown</a></sub>
@@ -356,13 +344,29 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'>
+  <br>
+  <sub><a href="https://date-fns.org/">date-fns</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/8443/2473585.png' alt='svgo'>
+  <br>
+  <sub><a href="https://github.com/svg/svgo">svgo</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (73)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (71)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (73)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (71)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -398,7 +402,6 @@ Full tech stack [here](/techstack.md)
 |[compression-webpack-plugin](https://www.npmjs.com/compression-webpack-plugin)|v6.0.1|12/14/22|DotEsparto |MIT|N/A|
 |[d3-scale](https://www.npmjs.com/d3-scale)|v3.2.3|12/13/22|DotEsparto |ISC|N/A|
 |[d3-shape](https://www.npmjs.com/d3-shape)|v2.0.0|12/13/22|DotEsparto |ISC|N/A|
-|[date-fns](https://www.npmjs.com/date-fns)|v2.16.1|12/13/22|DotEsparto |MIT|N/A|
 |[debug](https://www.npmjs.com/debug)|v4.2.0|12/13/22|DotEsparto |MIT|[CVE-2017-16137](https://github.com/advisories/GHSA-gxpj-cx7g-858c) (Moderate)|
 |[enzyme-adapter-react-16](https://www.npmjs.com/enzyme-adapter-react-16)|v1.15.4|12/14/22|DotEsparto |MIT|N/A|
 |[enzyme-to-json](https://www.npmjs.com/enzyme-to-json)|v3.5.0|12/14/22|DotEsparto |MIT|N/A|
@@ -431,7 +434,6 @@ Full tech stack [here](/techstack.md)
 |[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.8.4|12/14/22|DotEsparto |MIT|N/A|
 |[slugify](https://www.npmjs.com/slugify)|v1.4.5|12/14/22|DotEsparto |MIT|N/A|
 |[style-loader](https://www.npmjs.com/style-loader)|v1.2.0|12/14/22|DotEsparto |MIT|N/A|
-|[svgo](https://www.npmjs.com/svgo)|v1.3.2|12/14/22|DotEsparto |MIT|N/A|
 |[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v4.2.1|12/14/22|DotEsparto |MIT|N/A|
 |[url-loader](https://www.npmjs.com/url-loader)|v4.1.0|12/14/22|DotEsparto |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v8.3.0|12/13/22|DotEsparto |MIT|N/A|
@@ -443,4 +445,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
